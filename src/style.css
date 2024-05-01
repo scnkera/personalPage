@@ -1,0 +1,42 @@
+
+#navBar {
+    background-color: black;
+    border-bottom: 0.5px solid white;
+    padding: 20px 0px;
+    
+    
+}
+
+#navPageSections span{
+    text-transform: uppercase;
+    padding: 10px;
+    color: white;
+}
+
+#navPageSections span:hover{
+    color: gray;
+    cursor: pointer;
+}
+
+#mainHomePageContent{
+    border: 5px solid white;
+    height: calc(100vh - 90px);
+}
+
+#homeSection {
+	background-image: url("../img/galaxy.jpg");
+	min-height: 100vh;
+	background-size: cover;
+}
+
+#homePageInfo{
+    color: white;
+}
+
+#homePageProfileName{
+    font-size: 75px;
+}
+
+.iconSpacing {
+    padding: 5px;
+}
